@@ -1,0 +1,13 @@
+---
+author: EValuar
+date: "2026-01-22"
+categories:
+- Evaluación de impacto
+draft: false
+excerpt: En el 2026 recolectamos y actualizamos la información de 585 proyectos culturales presentados y avalados en 2020 y 2021 por CoCrea y establecimos criterios técnicos para determinar su incorporación en el Banco de Proyectos del 2026.
+
+layout: single
+subtitle: Recolección, actualización y análisis de los proyectos culturales del 2020 y 2021 de CoCrea.
+title: Depuración de la Base de Datos de proyectos de las convocatorias CoCrea de 2020 y 2021
+---
+

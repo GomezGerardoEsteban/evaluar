@@ -1,0 +1,15 @@
+---
+author: EValuar
+date: "2026-01-22"
+categories:
+- Evaluación de impacto
+draft: false
+excerpt: Determinamos el retorno social a la inversión (Social Return On Investment) de BogotáBio, un proyecto enmarcado
+   en una alianza público-privada para desarrollar capacidades en la producción de biológicos en
+   Colombia.
+   
+layout: single
+subtitle: Implementación de sistema de monitoreo y evaluación para valorar el desempeño de los proyectos ejecutados.
+title: SROI BogotáBio
+---
+
